@@ -1,0 +1,48 @@
+[
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Calendar.csv",
+        "P_sink_folder" : "Calendar",
+         "p_sink_file" : "Calendar.csv"
+    },
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Customers.csv",
+        "P_sink_folder" : "Customers",
+         "p_sink_file" : "Customers.csv"
+    },
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Product_Categories.csv",
+        "P_sink_folder" : "Product_Categories",
+         "p_sink_file" : "Product_Categories.csv"
+    },
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Product_Subcategories.csv",
+        "P_sink_folder" : "Product_Subcategories",
+         "p_sink_file" : "Product_Subcategories.csv"
+    },
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Returns.csv",
+        "P_sink_folder" : "Returns",
+         "p_sink_file" : "Returns.csv"
+    },
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Sales_2015.csv",
+        "P_sink_folder" : "Sales_2015",
+         "p_sink_file" : "Sales_2015.csv"
+    },
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Sales_2016.csv",
+        "P_sink_folder" : "Sales_2016",
+         "p_sink_file" : "Sales_2016.csv"
+    },
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Sales_2017.csv",
+        "P_sink_folder" : "Sales_2017",
+         "p_sink_file" : "Sales_2017.csv"
+    },
+
+    {
+        "p_relative_url" : "schak138/de_demo/refs/heads/main/AdventureWorks_datasets/AdventureWorks_Territories.csv",
+        "P_sink_folder" : "Territories",
+         "p_sink_file" : "Territories.csv"
+    }
+]
